@@ -1,40 +1,78 @@
-# Hi there! I'm Raslen 👋
+# 👋 Hey there! I'm Raslen
 
-## 🚀 About Me
-I'm a passionate developer with expertise in multiple programming languages and web technologies. I love creating efficient and innovative solutions to complex problems.
+## 🌟 About Me
+I'm a versatile developer with a passion for crafting elegant solutions across multiple programming languages. From web development to mobile applications, I love turning complex challenges into seamless experiences.
 
-## 💻 Tech Stack
+## 💻 Technology Playground
 
-### Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,php,kotlin,python,git" />
+</p>
 
-### Tools & Technologies
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### My Tech Arsenal
+- **Web Development:** HTML5, CSS3, PHP
+- **Mobile Development:** Kotlin
+- **Programming:** Python
+- **Tools:** Git, VS Code, GitHub
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raslenabb12&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raslenabb12&layout=compact&theme=radical)
+## 🚀 What I'm Working On
+- 🌐 Building responsive and interactive web applications
+- 📱 Exploring mobile app development with Kotlin
+- 🐍 Diving deep into Python for data analysis and automation
 
-## 🌱 Currently Learning
-- Advanced web development techniques
-- Mobile app development with Kotlin
-- Python data science and machine learning
+## 📊 GitHub Journey
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raslenabbes21@gmail.com)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raslenabb12&theme=dark" alt="Raslen's GitHub Streak" />
+</p>
 
-## 🏆 Achievements
-- Proficient in multiple programming paradigms
-- Strong problem-solving skills
-- Passionate about continuous learning and improvement
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raslenabb12&theme=darkhub&no-frame=true&row=1" alt="GitHub Trophies" />
+</p>
+
+## 🔥 Skills Breakdown
+```python
+class DeveloperProfile:
+    def __init__(self):
+        self.languages = {
+            'Web': ['HTML', 'CSS', 'PHP'],
+            'Mobile': ['Kotlin'],
+            'General Purpose': ['Python']
+        }
+        self.strengths = [
+            'Adaptive Learning',
+            'Problem Solving',
+            'Clean Code',
+            'Continuous Improvement'
+        ]
+    
+    def get_passion(self):
+        return "Transforming ideas into functional, beautiful code"
+```
+
+## 🌈 Fun Facts
+- 💡 Always curious and eager to learn
+- 🧩 Love solving complex coding puzzles
+- 🚀 Believe in continuous personal and professional growth
+
+## 📬 Connect With Me
+<p align="center">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/raslenabb12">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-⭐️ From [Raslen](https://github.com/raslenabb12)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raslenabb12&color=blueviolet" alt="Profile Views" />
+</p>
+
+*Code is poetry in motion* ✨
