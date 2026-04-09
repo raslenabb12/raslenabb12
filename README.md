@@ -1,62 +1,70 @@
-# 👋 Hey there! I'm Raslen
+# 👋 Hi, I’m Raslen
 
-## 🌟 About Me
-I'm a versatile developer with a passion for crafting elegant solutions across multiple programming languages. From web development to mobile applications, I love turning complex challenges into seamless experiences.
+I build practical software and AI-powered tools across **machine learning**, **kotlin applications**, and **product-focused engineering**.
 
-## 💻 Technology Playground
+## 🚀 What I Build
+I focus on projects that combine strong technical foundations with real-world utility:
 
-### Languages & Frameworks
+- 🤖 **Language AI / NLP** — fine-tuning and applying multilingual models for meaningful translation workflows.
+- 🌐 **Android products** — building clean, user-friendly experiences with maintainable architecture.
+- 🧩 **End-to-end development** — from concept and implementation to refinement and iteration.
+
+## 🧠 Featured Projects
+
+### 🔹 [Manhwa-NLLB-1.3B-EnAr-v2](https://github.com/raslenabb12/Manhwa-NLLB-1.3B-EnAr-v2)
+An NLP-focused project built around **NLLB-1.3B** for **English ↔ Arabic** translation use cases, targeting higher quality output for domain-specific content (like manhwa/media text).
+
+**Highlights**
+- Multilingual model application and adaptation
+- Focus on practical translation quality
+- AI-first workflow for content localization
+
+---
+
+### 🔹 [AnimeDrop](https://github.com/raslenabb12/AnimeDrop)
+A product-oriented project centered on anime-related content delivery/experience, designed with usability and clean structure in mind.
+
+**Highlights**
+- User-facing application thinking
+- Structured implementation and iteration
+- Product + engineering balance
+
+---
+
+### 🔹 [Tanuki](https://github.com/raslenabb12/Tanuki)
+A modern software project showcasing your ongoing expansion into new tooling, architecture, and scalable development practices.
+
+**Highlights**
+- Active experimentation and growth
+- Emphasis on clean implementation
+- Strong foundation for future feature expansion
+
+## 🛠️ Technical Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,kotlin,python,git" />
+  <img src="https://skillicons.dev/icons?i=python,php,html,css,kotlin,git,github,vscode" />
 </p>
 
-### My Tech Arsenal
-- **Web Development:** HTML5, CSS3, PHP
-- **Mobile Development:** Kotlin
-- **Programming:** Python
-- **Tools:** Git, VS Code, GitHub
+**Core Areas**
+- **AI / NLP:** Model-focused experimentation and translation workflows  
+- **Web Development:** HTML, CSS, PHP  
+- **General Development:** Python, Kotlin  
+- **Tooling:** Git, GitHub, VS Code  
 
-## 🚀 What I'm Working On
-- 🌐 Building responsive and interactive web applications
-- 📱 Exploring mobile app development with Kotlin
-- 🐍 Diving deep into Python for data analysis and automation
-
-## 📊 GitHub Journey
-
+## 📈 GitHub Metrics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raslenabb12&theme=dark" alt="Raslen's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raslenabb12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raslenabb12&theme=darkhub&no-frame=true&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raslenabb12&theme=tokyonight&no-frame=true&no-bg=true&row=1" alt="GitHub Trophies" />
 </p>
 
-## 🔥 Skills Breakdown
-```python
-class DeveloperProfile:
-    def __init__(self):
-        self.languages = {
-            'Web': ['HTML', 'CSS', 'PHP'],
-            'Mobile': ['Kotlin'],
-            'General Purpose': ['Python']
-        }
-        self.strengths = [
-            'Adaptive Learning',
-            'Problem Solving',
-            'Clean Code',
-            'Continuous Improvement'
-        ]
-    
-    def get_passion(self):
-        return "Transforming ideas into functional, beautiful code"
-```
+## 🎯 Current Focus
+- Improving translation quality and multilingual NLP workflows
+- Building polished, user-centered web/software products
+- Strengthening architecture and long-term maintainability in every project
 
-## 🌈 Fun Facts
-- 💡 Always curious and eager to learn
-- 🧩 Love solving complex coding puzzles
-- 🚀 Believe in continuous personal and professional growth
-
-## 📬 Connect With Me
+## 🤝 Connect
 <p align="center">
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -71,8 +79,4 @@ class DeveloperProfile:
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raslenabb12&color=blueviolet" alt="Profile Views" />
-</p>
-
-*Code is poetry in motion* ✨
+<p align="center"><i>Building useful things, one iteration at a time.</i></p>
