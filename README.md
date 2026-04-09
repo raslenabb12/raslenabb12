@@ -22,7 +22,7 @@ An NLP-focused project built around **NLLB-1.3B** for **English ↔ Arabic** tra
 ---
 
 ### 🔹 [AnimeDrop](https://github.com/raslenabb12/AnimeDrop)
-A product-oriented project centered on anime-related content delivery/experience, designed with usability and clean structure in mind.
+AnimeDrop is an Android application that allows users to browse and get live countdowns for upcoming anime releases using Jikan API. It is built using modern Android development tools and practices.
 
 **Highlights**
 - User-facing application thinking
@@ -32,7 +32,7 @@ A product-oriented project centered on anime-related content delivery/experience
 ---
 
 ### 🔹 [Tanuki](https://github.com/raslenabb12/Tanuki)
-A modern software project showcasing your ongoing expansion into new tooling, architecture, and scalable development practices.
+Tanuki is a modern Android application designed for manga enthusiasts to track their collections, explore new titles
 
 **Highlights**
 - Active experimentation and growth
