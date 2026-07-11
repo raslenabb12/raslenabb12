@@ -6,8 +6,6 @@ I am a Computer Science student based in Tunisia, graduating in late 2027. My pa
 
 I specialize in bridging the gap between heavy deep learning models and mobile architectures—optimizing AI to run efficiently, locally, and privately on edge devices. 
 
- **Currently seeking Master's/RA opportunities in South Korea for Fall 2027 / Spring 2028.**
-
 ---
 
 ###  Research Interests
