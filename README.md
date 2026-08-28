@@ -2,7 +2,7 @@
 
 ###  Computer Science Undergrad | Edge AI & Applied Machine Learning
 
-I am a Computer Science student based in Tunisia, graduating in late 2027. My passion lies in **Applied Artificial Intelligence, Edge Computing (On-Device ML), and Natural Language Processing**. 
+I am a Computer Science student, graduating in late 2027. My passion lies in **Applied Artificial Intelligence, Edge Computing (On-Device ML), and Natural Language Processing**. 
 
 I specialize in bridging the gap between heavy deep learning models and mobile architectures—optimizing AI to run efficiently, locally, and privately on edge devices. 
 
@@ -50,6 +50,4 @@ I specialize in bridging the gap between heavy deep learning models and mobile a
 
 ### 📫 Let's Connect
 Looking to collaborate on Edge AI research or discuss graduate opportunities!
-*   **Email:** raslenabbes21@gmail.com
-*   **LinkedIn:** https://www.linkedin.com/in/raslen-ben-abbes/
 *   **Kaggle/Hugging Face:** https://huggingface.co/Youme21
